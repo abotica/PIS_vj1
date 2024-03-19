@@ -11,7 +11,9 @@ namespace ConsoleApp7
     {
         static void NewMethod()
         {
-            static void Metoda(){}
+            static void Metoda(){
+            //metoda merged
+            }
         }
     }
 
